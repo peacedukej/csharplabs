@@ -1,0 +1,10 @@
+C:\Users\Rabinowitz\source\repos\lab5_mp_kiryanov\lab5_mp_kiryanov\bin\Debug\lab5_mp_kiryanov.exe.config
+C:\Users\Rabinowitz\source\repos\lab5_mp_kiryanov\lab5_mp_kiryanov\bin\Debug\lab5_mp_kiryanov.exe
+C:\Users\Rabinowitz\source\repos\lab5_mp_kiryanov\lab5_mp_kiryanov\bin\Debug\lab5_mp_kiryanov.pdb
+C:\Users\Rabinowitz\source\repos\lab5_mp_kiryanov\lab5_mp_kiryanov\obj\Debug\lab5_mp_kiryanov.csprojAssemblyReference.cache
+C:\Users\Rabinowitz\source\repos\lab5_mp_kiryanov\lab5_mp_kiryanov\obj\Debug\lab5_mp_kiryanov.Form1.resources
+C:\Users\Rabinowitz\source\repos\lab5_mp_kiryanov\lab5_mp_kiryanov\obj\Debug\lab5_mp_kiryanov.Properties.Resources.resources
+C:\Users\Rabinowitz\source\repos\lab5_mp_kiryanov\lab5_mp_kiryanov\obj\Debug\lab5_mp_kiryanov.csproj.GenerateResource.cache
+C:\Users\Rabinowitz\source\repos\lab5_mp_kiryanov\lab5_mp_kiryanov\obj\Debug\lab5_mp_kiryanov.csproj.CoreCompileInputs.cache
+C:\Users\Rabinowitz\source\repos\lab5_mp_kiryanov\lab5_mp_kiryanov\obj\Debug\lab5_mp_kiryanov.exe
+C:\Users\Rabinowitz\source\repos\lab5_mp_kiryanov\lab5_mp_kiryanov\obj\Debug\lab5_mp_kiryanov.pdb

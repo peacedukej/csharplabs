@@ -1,0 +1,30 @@
+C:\Users\Rulia\source\repos\MP_lab3\bin\Debug\MP_lab3.exe.config
+C:\Users\Rulia\source\repos\MP_lab3\bin\Debug\MP_lab3.exe
+C:\Users\Rulia\source\repos\MP_lab3\bin\Debug\MP_lab3.pdb
+C:\Users\Rulia\source\repos\MP_lab3\obj\Debug\MP_lab3.csprojAssemblyReference.cache
+C:\Users\Rulia\source\repos\MP_lab3\obj\Debug\MP_lab3.Form1.resources
+C:\Users\Rulia\source\repos\MP_lab3\obj\Debug\MP_lab3.Properties.Resources.resources
+C:\Users\Rulia\source\repos\MP_lab3\obj\Debug\MP_lab3.csproj.GenerateResource.cache
+C:\Users\Rulia\source\repos\MP_lab3\obj\Debug\MP_lab3.csproj.CoreCompileInputs.cache
+C:\Users\Rulia\source\repos\MP_lab3\obj\Debug\MP_lab3.exe
+C:\Users\Rulia\source\repos\MP_lab3\obj\Debug\MP_lab3.pdb
+C:\Users\Rabinowitz\Desktop\MP_lab3 (1)\bin\Debug\MP_lab3.exe.config
+C:\Users\Rabinowitz\Desktop\MP_lab3 (1)\bin\Debug\MP_lab3.exe
+C:\Users\Rabinowitz\Desktop\MP_lab3 (1)\bin\Debug\MP_lab3.pdb
+C:\Users\Rabinowitz\Desktop\MP_lab3 (1)\obj\Debug\MP_lab3.csprojAssemblyReference.cache
+C:\Users\Rabinowitz\Desktop\MP_lab3 (1)\obj\Debug\MP_lab3.Form1.resources
+C:\Users\Rabinowitz\Desktop\MP_lab3 (1)\obj\Debug\MP_lab3.Properties.Resources.resources
+C:\Users\Rabinowitz\Desktop\MP_lab3 (1)\obj\Debug\MP_lab3.csproj.GenerateResource.cache
+C:\Users\Rabinowitz\Desktop\MP_lab3 (1)\obj\Debug\MP_lab3.csproj.CoreCompileInputs.cache
+C:\Users\Rabinowitz\Desktop\MP_lab3 (1)\obj\Debug\MP_lab3.exe
+C:\Users\Rabinowitz\Desktop\MP_lab3 (1)\obj\Debug\MP_lab3.pdb
+C:\Users\Rabinowitz\Desktop\хлам 6\архивы и папки\MP_lab3 (1)\bin\Debug\MP_lab3.exe.config
+C:\Users\Rabinowitz\Desktop\хлам 6\архивы и папки\MP_lab3 (1)\bin\Debug\MP_lab3.exe
+C:\Users\Rabinowitz\Desktop\хлам 6\архивы и папки\MP_lab3 (1)\bin\Debug\MP_lab3.pdb
+C:\Users\Rabinowitz\Desktop\хлам 6\архивы и папки\MP_lab3 (1)\obj\Debug\MP_lab3.csprojAssemblyReference.cache
+C:\Users\Rabinowitz\Desktop\хлам 6\архивы и папки\MP_lab3 (1)\obj\Debug\MP_lab3.Properties.Resources.resources
+C:\Users\Rabinowitz\Desktop\хлам 6\архивы и папки\MP_lab3 (1)\obj\Debug\MP_lab3.csproj.GenerateResource.cache
+C:\Users\Rabinowitz\Desktop\хлам 6\архивы и папки\MP_lab3 (1)\obj\Debug\MP_lab3.csproj.CoreCompileInputs.cache
+C:\Users\Rabinowitz\Desktop\хлам 6\архивы и папки\MP_lab3 (1)\obj\Debug\MP_lab3.exe
+C:\Users\Rabinowitz\Desktop\хлам 6\архивы и папки\MP_lab3 (1)\obj\Debug\MP_lab3.pdb
+C:\Users\Rabinowitz\Desktop\хлам 6\архивы и папки\MP_lab3 (1)\obj\Debug\mp_lab3_kiryanov.Form1.resources
